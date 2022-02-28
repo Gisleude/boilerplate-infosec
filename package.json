@@ -13,6 +13,7 @@
 	"keywords": [
 		"node",
 		"hyperdev",
+		"helmet",
 		"express",
 		"freecodecamp"
 	],
